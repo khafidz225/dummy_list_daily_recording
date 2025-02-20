@@ -1,0 +1,33 @@
+[
+    {
+              "nsikluspk": 17659,
+              "csiklusid": "S001",
+              "ckdgid": "KF006",
+              "cptgsid": "PTGS001",
+              "dbukakandang": "2024-01-09T17:00:00.000Z",
+              "dchickindate": "2024-01-14T17:00:00.000Z",
+              "dcloseddate": "2024-02-14T17:00:00.000Z",
+              "dpemeliharaan": "2025-01-19T17:00:00.000Z",
+              "cstatus": "1",
+              "ckdunitkey": "K001",
+              "nunitpk": 1236,
+              "cfarmid": "F0002",
+              "cfarmname": "Sehat Setia",
+              "nci": 100,
+              "npop": 2000,
+              "nco": 50,
+              "ndep": 5,
+              "navgbw": 2.5,
+              "nmtkg": 3,
+	          "nqtyadjpop": 50,
+              "nip": 90,
+              "nfcr": 1.5,
+              "cstdcode": "STD1",
+              "cisafkir": "Y",
+              "dindate": "2024-01-04T17:00:00.000Z",
+              "cinuserid": "admin",
+              "dchdate": "2024-01-31T17:00:00.000Z",
+              "cchuserid": "admin",
+            
+          }
+]
